@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="nota10reais-frente" size="0.100000 0.047993" />
+    <ImageTarget name="Nota2reais-frente" size="0.100000 0.053333" />
+  </Tracking>
+</QCARConfig>
